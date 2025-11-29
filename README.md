@@ -1,4 +1,6 @@
     
+    
+    
     # Mini Geom 📐
 
     Un paquete utilitario de Python simple para el cálculo de áreas y perímetros de figuras geométricas básicas.
@@ -11,7 +13,9 @@
     git clone git@github.com:introSoft-iud/mini_geom_project_new.git
     cd mini_geom_project
     pip install .
+
     ```
+
 
     ## ✨ Uso
 
