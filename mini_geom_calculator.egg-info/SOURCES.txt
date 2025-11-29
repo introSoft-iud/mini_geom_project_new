@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+mini_geom/__init__.py
+mini_geom/calculations.py
+mini_geom/main.py
+mini_geom_calculator.egg-info/PKG-INFO
+mini_geom_calculator.egg-info/SOURCES.txt
+mini_geom_calculator.egg-info/dependency_links.txt
+mini_geom_calculator.egg-info/top_level.txt
